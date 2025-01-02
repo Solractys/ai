@@ -141,16 +141,3 @@ Visit `http://localhost:3000` to see your app.
 ## 🎥 Tutorial Video
 
 For a complete setup walkthrough, check out our [video tutorial](https://youtu.be/7AQNeii5K7E).
-
-## 🌟 Show Your Support
-
-Give a ⭐️ if this project helped you!
-
-If you have any question or want a custom build for your business, you can reach out to me via:
-
-- E-mail : codebucks27@gmail.com
-- Twitter: https://twitter.com/code_bucks
-- Instagram: https://www.instagram.com/code.bucks/
-
-MyChannel: https://www.youtube.com/codebucks
-My Website: https://devdreaming.com/
